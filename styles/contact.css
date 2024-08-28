@@ -60,7 +60,7 @@ li{
     margin: auto;
     width: 100%;
     height: 500px;
-    background-image: url(/images/bannar/bannar-image.jpg);
+    background-image: url(../images/bannar/bannar-image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
